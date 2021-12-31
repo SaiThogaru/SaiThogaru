@@ -2,6 +2,7 @@
 - 👀 I’m interested in leaning code
 - 🌱 I’m currently learning machine learning
 - 📫 How to reach me ...whatsapp:+91 8340018705
+- PYTHON 
 
 
 <!---
