@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SaiThogaru
-- 👀 I’m interested in leaning code
-- 🌱 I’m currently learning machine learning
+- 👀 LOVE AT CODING
+- 🌱 DEVELOPING MYSELF
 - 📫 How to reach me ...Whatsapp:+91 8340018705
-- PYTHON 
+- PYTHON || JAVA FULL STACK || HTML
 - SQL 
 
 
